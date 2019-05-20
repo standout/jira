@@ -1,5 +1,5 @@
 require 'optparse'
-require 'YAML'
+require 'yaml'
 
 module Jira
   class CLI
